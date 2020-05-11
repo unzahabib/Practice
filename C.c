@@ -1,4 +1,4 @@
 #include <conio.h>
 void main(){
-    printf("Hello Wold!");
+    printf("Hey Hamza!");
 }
