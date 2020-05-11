@@ -1,4 +1,5 @@
 #include <conio.h>
-void main(){
+int main(){
     printf("Hello Wold!");
+    return 0;
 }
